@@ -1,2 +1,6 @@
 key.json
 data.db
+venv/
+lib/
+*.tgz
+*.zip
