@@ -59,3 +59,6 @@ Particularly:
 * Effective OCR on various receipt types/brands (not all receipts have the same
   structure)
 * Bluetooth communication between HUD and Android app
+  
+![demo](https://github.com/jgome043/recipe-scouter/blob/images/images/cropped.jpg?raw=true "Demo")  
+![parts](https://github.com/jgome043/recipe-scouter/blob/images/images/overview.jpg?raw=true "Parts and prototypes")
